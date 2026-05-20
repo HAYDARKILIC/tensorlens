@@ -2,17 +2,10 @@
 
 **First-principles diagnostic toolkit for modern LLM mechanics, high-dimensional geometry, and mechanistic interpretability.**
 
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch 2.4+](https://img.shields.io/badge/PyTorch-2.4+-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Coverage 92%](https://img.shields.io/badge/coverage-92%25-brightgreen.svg)](#)
-[![Type Checked: mypy --strict](https://img.shields.io/badge/mypy-strict-2a6db2.svg)](#)
-
 ---
 
 Every algorithm — SVD anisotropy metrics, t-SNE, UMAP, Hessian power iteration, Lanczos, sparse autoencoders, multi-tier roofline — is implemented from PyTorch/NumPy/SciPy primitives. No `sklearn`, no `umap-learn`, no `tensorboard`, no opaque wrappers.
 
-Companion to [**BitWise-LLM-Forge**](#) (the training-side repository): where BitWise constructs and trains transformers from bit-level numerics, TensorLens dissects what they *actually do* in their latent geometries.
 
 ## Curriculum
 
