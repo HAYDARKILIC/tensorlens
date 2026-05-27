@@ -1,11 +1,6 @@
 # TensorLens
 
-**First-principles diagnostic toolkit for modern LLM mechanics, high-dimensional geometry, and mechanistic interpretability.**
-
----
-
-Every algorithm — SVD anisotropy metrics, t-SNE, UMAP, Hessian power iteration, Lanczos, sparse autoencoders, multi-tier roofline — is implemented from PyTorch/NumPy/SciPy primitives. No `sklearn`, no `umap-learn`, no `tensorboard`, no opaque wrappers.
-
+An advanced, production-grade repository focused on LLM internals, mechanistic interpretability, training dynamics, and hardware-aware performance profiling. This codebase bridges deep geometric theory with rigorous, low-level implementations from scratch—culminating in an interactive, live WebGL GPU telemetry dashboard.
 
 ## Curriculum
 
